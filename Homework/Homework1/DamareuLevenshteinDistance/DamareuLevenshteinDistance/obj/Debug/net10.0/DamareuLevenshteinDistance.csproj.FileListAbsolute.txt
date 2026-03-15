@@ -1,0 +1,14 @@
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\bin\Debug\net10.0\DamareuLevenshteinDistance.exe
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\bin\Debug\net10.0\DamareuLevenshteinDistance.deps.json
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\bin\Debug\net10.0\DamareuLevenshteinDistance.runtimeconfig.json
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\bin\Debug\net10.0\DamareuLevenshteinDistance.dll
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\bin\Debug\net10.0\DamareuLevenshteinDistance.pdb
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\obj\Debug\net10.0\DamareuLevenshteinDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\obj\Debug\net10.0\DamareuLevenshteinDistance.AssemblyInfoInputs.cache
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\obj\Debug\net10.0\DamareuLevenshteinDistance.AssemblyInfo.cs
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\obj\Debug\net10.0\DamareuLevenshteinDistance.csproj.CoreCompileInputs.cache
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\obj\Debug\net10.0\DamareuLevenshteinDistance.dll
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\obj\Debug\net10.0\refint\DamareuLevenshteinDistance.dll
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\obj\Debug\net10.0\DamareuLevenshteinDistance.pdb
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\obj\Debug\net10.0\DamareuLevenshteinDistance.genruntimeconfig.cache
+C:\Users\macbookpro\source\repos\DamareuLevenshteinDistance\DamareuLevenshteinDistance\obj\Debug\net10.0\ref\DamareuLevenshteinDistance.dll

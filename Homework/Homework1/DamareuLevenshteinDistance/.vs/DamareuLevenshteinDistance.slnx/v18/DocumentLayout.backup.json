@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macbookpro\\source\\repos\\DamareuLevenshteinDistance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC7A349-6BE7-44A8-84E9-65F2A7FA9257}|DamareuLevenshteinDistance\\DamareuLevenshteinDistance.csproj|c:\\users\\macbookpro\\source\\repos\\damareulevenshteindistance\\damareulevenshteindistance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC7A349-6BE7-44A8-84E9-65F2A7FA9257}|DamareuLevenshteinDistance\\DamareuLevenshteinDistance.csproj|solutionrelative:damareulevenshteindistance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macbookpro\\source\\repos\\DamareuLevenshteinDistance\\DamareuLevenshteinDistance\\Program.cs",
+              "RelativeDocumentMoniker": "DamareuLevenshteinDistance\\Program.cs",
+              "ToolTip": "C:\\Users\\macbookpro\\source\\repos\\DamareuLevenshteinDistance\\DamareuLevenshteinDistance\\Program.cs",
+              "RelativeToolTip": "DamareuLevenshteinDistance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:13:31.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
